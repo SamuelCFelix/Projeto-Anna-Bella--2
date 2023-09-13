@@ -1,0 +1,36 @@
+#background{
+    background-image: url(imagens/fundo.png);
+}
+#fundo_txt{
+    background-color: aliceblue;  
+    width: 900px;
+}
+#direitos{
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    position: absolute;
+    left: 330px;
+    
+}
+.barra{
+    color: rgb(0, 0, 0);
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+.fonte_topo{
+    color: rgb(40, 85, 111);
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+.titulo{
+    color: rgb(171, 142, 100);
+}
+.texto{
+    font-family: Georgia, serif; 
+}
+.borda{
+    border-color: rgb(182, 163, 139);
+    border-width: 10px;
+    border-style: solid;
+}
